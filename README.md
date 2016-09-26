@@ -1,7 +1,7 @@
 # MVPRxRetrofitApp
 This project avilable feature for design pattern MVP and retrofit Rx api integration.
 
-<img src="https://github.com/sunil676/MVPRxRetrofitApp/blob/master/device-2016-09-26-200520.png" width="400" height="750"/>
+<img src="https://github.com/sunil676/MVPRxRetrofitApp/blob/master/device-2016-09-26-202649.png" width="400" height="750"/>
 
 LINK:
 
